@@ -1,6 +1,6 @@
-// JAVASCRIPT CONTROLL STATEMENTS AND LOOPS
+// *JAVASCRIPT CONTROLL STATEMENTS AND LOOPS
 
-// IF..ELSE STATEMENT
+// IF..ELSE STATEMENT............
 
 // var userAge = 18;
 // var isCitizen = true;
@@ -21,7 +21,7 @@
 //             console.log("You are not eligible to vote (YOUNGER)");
 //         }
             
-// SWITCH CONDITION
+// *SWITCH CONDITION...................
 
 // var  day = "Wednesday";
 
@@ -92,4 +92,47 @@
 //     default:
 //         console.log("Password Is Incorrect");
 //         break;
+// }
+
+
+// WHILE-LOOP...............
+// SIMPLE WHILE LOOP TO COUNT FROM 1 TO 10
+
+// var num = 1;
+
+// while (num <= 10) {
+//     console.log(num);
+//     num++;
+// }
+
+// LET's CREATE A TABLE OF ANY NUMBER........
+
+var num = 1;
+
+while (num <= 10) {
+    console.log("5 * " + num + " = " + 5 * num);
+    num++;
+    
+}
+
+
+
+
+// DO-WHILE-LOOP.............
+// SIMPLE WHILE LOOP TO COUNT FROM 1 TO 10
+
+// var num = 1;
+
+// do {
+//     console.log(num);
+//     num++;
+// } while (num <= 10);
+
+// FOR-LOOP..............
+// SIMPLE WHILE LOOP TO COUNT FROM 1 TO 10
+
+// for (var num = 1; num <= 10; num++) {
+//     console.log(num);
+//     ;
+    
 // }
