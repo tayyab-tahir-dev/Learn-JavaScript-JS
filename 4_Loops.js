@@ -52,7 +52,10 @@
 
 //     case "Sunday":
 //         console.log("Today is Sunday");
-//         break;
+//         break; 
+// default:
+//        console.log("No Day Match");
+//        break;
 // }
 
 
@@ -73,6 +76,5 @@
    
 //  default:
 //     console.log("No Shape Matches");
-    
 //         break;
 // }
