@@ -54,3 +54,25 @@
 //         console.log("Today is Sunday");
 //         break;
 // }
+
+
+// var areaOfShapes = "rectangle";
+// var a = 5;
+// var b = 10;
+// var result; 
+// switch (areaOfShapes) {
+//     case "square":
+//         result = a * a;
+//         console.log(result);
+//         break;
+        
+//         case "rectangle":
+//         result = a * b;
+//         console.log(result);
+//         break;
+   
+//  default:
+//     console.log("No Shape Matches");
+    
+//         break;
+// }
