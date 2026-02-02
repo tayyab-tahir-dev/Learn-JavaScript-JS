@@ -81,14 +81,14 @@
 // }
 
 
-var password = 565657;
+// var password = 565657;
 
-switch (password) {
-    case 565657:
-        console.log("Password Is Correct");
-        break;
+// switch (password) {
+//     case 565657:
+//         console.log("Password Is Correct");
+//         break;
 
-    default:
-        console.log("Password Is Incorrect");
-        break;
-}
+//     default:
+//         console.log("Password Is Incorrect");
+//         break;
+// }
