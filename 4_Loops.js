@@ -53,9 +53,10 @@
 //     case "Sunday":
 //         console.log("Today is Sunday");
 //         break; 
-// default:
+
+//    default:
 //        console.log("No Day Match");
-//        break;
+//          break;
 // }
 
 
@@ -78,3 +79,16 @@
 //     console.log("No Shape Matches");
 //         break;
 // }
+
+
+var password = 565657;
+
+switch (password) {
+    case 565657:
+        console.log("Password Is Correct");
+        break;
+
+    default:
+        console.log("Password Is Incorrect");
+        break;
+}
