@@ -60,7 +60,7 @@
 // }
 
 
-// var areaOfShapes = "circle";
+// var areaOfShapes = "rectangle";
 // var a = 5;
 // var b = 10;
 
