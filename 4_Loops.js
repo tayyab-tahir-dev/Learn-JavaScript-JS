@@ -60,9 +60,10 @@
 // }
 
 
-// var areaOfShapes = "rectangle";
+// var areaOfShapes = "circle";
 // var a = 5;
 // var b = 10;
+
 // var result; 
 // switch (areaOfShapes) {
 //     case "square":
