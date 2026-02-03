@@ -12,8 +12,8 @@
 // var $cityName = "New York";
 // console.log($cityName)
 
-// var my@Email = "Tayya@me.com"
-// console.log(me@Email)
+var my@Email = "Tayya@me.com"
+console.log(me@Email)
 
 
 
