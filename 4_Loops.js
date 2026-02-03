@@ -107,19 +107,18 @@
 
 // LET's CREATE A TABLE OF ANY NUMBER........
 
-var num = 1;
+// var num = 1;
 
-while (num <= 10) {
-    console.log("5 * " + num + " = " + 5 * num);
-    num++;
+// while (num <= 10) {
+//     console.log("5 * " + num + " = " + 5 * num);
+//     num++;
     
-}
-
+// }
 
 
 
 // DO-WHILE-LOOP.............
-// SIMPLE WHILE LOOP TO COUNT FROM 1 TO 10
+// SIMPLE DO-WHILE-LOOP TO COUNT FROM 1 TO 10
 
 // var num = 1;
 
@@ -128,11 +127,25 @@ while (num <= 10) {
 //     num++;
 // } while (num <= 10);
 
+
+
 // FOR-LOOP..............
-// SIMPLE WHILE LOOP TO COUNT FROM 1 TO 10
+// SIMPLE FOR-LOOP TO COUNT FROM 1 TO 10
 
 // for (var num = 1; num <= 10; num++) {
 //     console.log(num);
 //     ;
     
 // }
+
+
+// DO-WHILE-LOOP
+
+// let userInput;
+// let positiveNumber;
+
+// do {
+//     userInput = Prompt("Enter Any Positive Number");
+//     positiveNumber = parseFlost(userInput);
+// } while (isNaN(positiveNumber) || positiveNumber < 0);
+// console.log("You Enter a Valid Positive Number:", positiveNumber);
