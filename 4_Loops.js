@@ -149,3 +149,21 @@
 //     positiveNumber = parseFlost(userInput);
 // } while (isNaN(positiveNumber) || positiveNumber < 0);
 // console.log("You Enter a Valid Positive Number:", positiveNumber);
+
+
+
+var num = 13;
+var isPrime = true;
+
+for (var i = 2; i < num; i++) {
+    if (num % i === 0) {
+        isPrime = false;
+        break;
+    }
+}
+if (isPrime) {
+    console.log("Num is Prime");
+ }   else {
+    console.log("Num is Not Prime");
+ }
+    
