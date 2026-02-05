@@ -105,7 +105,7 @@
 //     num++;
 // }
 
-// LET's CREATE A TABLE OF ANY NUMBER........
+// LET's CREATE A TABLE OF ANY NUMBER USING WHILE LOOP........
 
 // var num = 1;
 
@@ -115,6 +115,12 @@
     
 // }
 
+
+// USING FOR LOOP...............
+
+// for (var num = 1; num <= 10; num++) {
+//    console.log("5 * " + num + " = " + 5 * num)
+// }
 
 
 // DO-WHILE-LOOP.............
@@ -167,3 +173,28 @@
 //     console.log("Num is Not Prime");
 //  }
     
+
+
+
+// PROGRAM TO CHECK IS A YEAR IS LEAP YEAR...........
+
+
+var year = 2023;
+
+if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
+    console.log(year, "It's a Leap Year" );
+} else { 
+    console.log(year, "It's Not a Leap Year");
+    
+}
+
+
+// MAKING PATTERN
+
+// for (var i = 1; i <= 5; i++)  {
+//     var pattern = "";
+//     for (var j = 1; j <= i; j++){
+//         pattern = pattern + " * "; 
+// }
+//   console.log(pattern);
+//   } 
