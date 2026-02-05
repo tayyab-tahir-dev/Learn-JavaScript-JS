@@ -152,18 +152,18 @@
 
 
 
-var num = 13;
-var isPrime = true;
+// var num = 13;
+// var isPrime = true;
 
-for (var i = 2; i < num; i++) {
-    if (num % i === 0) {
-        isPrime = false;
-        break;
-    }
-}
-if (isPrime) {
-    console.log("Num is Prime");
- }   else {
-    console.log("Num is Not Prime");
- }
+// for (var i = 2; i < num; i++) {
+//     if (num % i === 0) {
+//         isPrime = false;
+//         break;
+//     }
+// }
+// if (isPrime) {
+//     console.log("Num is Prime");
+//  }   else {
+//     console.log("Num is Not Prime");
+//  }
     
