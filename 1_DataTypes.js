@@ -1,38 +1,38 @@
-// Questions ?
-
-// var my_firstName = "John";
-// console.log(my_firstName)
-
-// var _myLastName = "Doe";
-// console.log(_myLastName)
-
-// var 123myAge = 25;
-// console.log(123myAge)
-
-// var $cityName = "New York";
-// console.log($cityName)
-
-// var my@Email = "Tayya@me.com"
-// console.log(me@Email)
-
-
-
 // DATA TYPES..............
+// Data Types define the type of values that a variable can hold.
+
+// 1) NUMBERS.
 
 // var myFavNum = 65;
 // console.log(myFavNum);
 
+
+// 2) STRING.
+
 // var myName = "Tayyab";
 // console.log(myName);
 
+
+// 3) BOOLEAN.
+
 // var isRaining = false;
+// var isNotRaining = true;
 // console.log(isRaining);
+
+
+// 4) UNDEFINED.
 
 // var tayyab;
 // console.log(tayyab);
 
+
+// 5) NULL.
+
 // var badMemories = null;
 // console.log(badMemories);
+
+
+// 6) BIGINT.
 
 // var bigNumbers = 12345678909876543323456n;
 // console.log(bigNumbers); 
@@ -78,8 +78,3 @@
 // const  myString = "45.5";
 // const myNumber = parseFloat(myString);
 // console.log(myNumber);
-
-let firstName = "Ali";
-let lastName = "Khan";
-
-console.log(firstName + " " + lastName);
