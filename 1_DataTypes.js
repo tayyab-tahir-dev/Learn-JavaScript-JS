@@ -12,8 +12,8 @@
 // var $cityName = "New York";
 // console.log($cityName)
 
-var my@Email = "Tayya@me.com"
-console.log(me@Email)
+// var my@Email = "Tayya@me.com"
+// console.log(me@Email)
 
 
 
@@ -78,3 +78,8 @@ console.log(me@Email)
 // const  myString = "45.5";
 // const myNumber = parseFloat(myString);
 // console.log(myNumber);
+
+let firstName = "Ali";
+let lastName = "Khan";
+
+console.log(firstName + " " + lastName);
