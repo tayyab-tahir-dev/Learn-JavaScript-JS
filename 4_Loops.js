@@ -4,22 +4,27 @@
 
 // var userAge = 18;
 // var isCitizen = true;
-// var isRegistered = true;
+// var isRegistered = false;
 
 
 // if (userAge >= 18) {
 //     if (isCitizen) {
 //         if (isRegistered) {
-//             console.log("You are eligible to vote");
+//             console.log("You Are Eligible To Vote");
+            
 //         } else {
-//             console.log("You are not eligible due to registration status");
+//             console.log("You Are Not Eligible Due To Registration Status");
 //         }
 //         } else {
-//             console.log("You are not eligible due to citizenship status");
+//                console.log("You Are Not Eligible Due To CitizenShip Status");
 //         }
 //         } else {
-//             console.log("You are not eligible to vote (YOUNGER)");
+//                console.log("You Are Not Eligible To Vote");
+    
 //         }
+
+
+
             
 // *SWITCH CONDITION...................
 
@@ -179,14 +184,14 @@
 // PROGRAM TO CHECK IS A YEAR IS LEAP YEAR...........
 
 
-var year = 2023;
+// var year = 2023;
 
-if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
-    console.log(year, "It's a Leap Year" );
-} else { 
-    console.log(year, "It's Not a Leap Year");
+// if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
+//     console.log(year, "It's a Leap Year" );
+// } else { 
+//     console.log(year, "It's Not a Leap Year");
     
-}
+// }
 
 
 // MAKING PATTERN
