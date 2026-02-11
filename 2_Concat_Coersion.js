@@ -3,7 +3,7 @@
 // In JavaScript we use the + operator for arithmetic addition, but we also use for string conncatination.
 
 
-// const str = "Hello" + "World";
+// const str = "Hello " + "World";
 // console.log(str);
 
 
