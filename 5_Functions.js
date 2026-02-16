@@ -10,11 +10,11 @@
 
 // EXAMPLE..................
 
-function sum(a, b) {
-    return a + b;
-}
-console.log(sum(5, 5));
-console.log(sum(10, 15));
-console.log(sum(10, 50));
+// function sum(a, b) {
+//     return a + b;
+// }
+// console.log(sum(5, 5));
+// console.log(sum(10, 15));
+// console.log(sum(10, 50));
 
 
