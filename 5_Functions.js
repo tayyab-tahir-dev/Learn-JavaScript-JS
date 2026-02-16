@@ -18,3 +18,61 @@
 // console.log(sum(10, 50));
 // console.log(sum(100, 200));
 
+
+// FUNTION DECLARATION.............
+// Function declaration is the process of defining a function with its name, parameters, and body using the function keyword.
+// Function declaration ka matlab function ko define karna hota hai jisme uska naam, parameters aur body likhi jati hai.
+
+
+// example..................
+
+// function greet() {
+//     console.log("Hello How Are You");
+// }
+
+// Yahan uper function declare hua hai, call nahi hua.
+
+
+
+// FUNCTION INVOCATION.............
+// Function invocation is the process of executing or calling a function using its name followed by parentheses.
+// Function invocation ka matlab function ko uske naam ke sath parentheses laga kar execute karna hota hai.Ya call krna hota hai.
+
+// example..................
+
+// greet();
+
+// Yahan function invoke (call) hua hai
+
+
+// SIMPLE.....................
+// Function banana → Function Declaration
+// Function chalana → Function Invocation / Function Call
+
+
+
+// FUNCTTION PARAMETERS.........
+// Function parameters are the variables that are defined in the function declaration and are used to receive values when the function is called.
+
+// example..................
+//  syntax...................
+
+// function functionName(parameter1, parameter2, ...) {
+//     // code to be executed
+// }
+
+
+// FUNCTION ARGUMENTS.........
+// Function arguments are the actual values that are passed to a function when it is called. 
+
+// example..................
+
+// function sum(a, b) {
+//     return a + b;
+// }
+
+// console.log(sum(5, 10)); // 5 and 10 are arguments passed to the sum function
+// console.log(sum(20, 30)); // 20 and 30 are arguments passed to the sum function
+
+
+
