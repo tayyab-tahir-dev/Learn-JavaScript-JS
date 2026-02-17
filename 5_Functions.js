@@ -75,4 +75,45 @@
 // console.log(sum(20, 30)); // 20 and 30 are arguments passed to the sum function
 
 
+// LETS DO SOME PRACTICE..................
+//   function greet(name) {
+//     console.log("Hello " +  name  + ": How Are You"); 
+//   }
 
+//   greet("John"); // John is the argument passed to the greet function
+//   greet("Alice"); // Alice is the argument passed to the greet function
+//   greet("Bob"); // Bob is the argument passed to the greet function
+
+// FIND SUM OF TWO NUMBERS USING FUNCTION..................
+
+// function sum(a, b) {
+//     console.log(a + b);
+// }
+
+// sum(6, 10);
+// sum(100, 200);
+// sum(50, 50);    
+
+
+// FUNCTION EXPRESSION..............
+// ASA FUNCTION JIS KA NAME A RHA HAI OR VARIABLE MAY USKO ASIGN KIA HUA HAI.
+
+// var result = function sum(a, b) {
+//     console.log(a + b);
+
+// }
+
+// result(10, 60);
+
+
+
+
+// ANONYMOUS Function............
+// ASA FUNCTION JIS KA KOI NAME NA HO.
+
+// var result = function sum(a, b) {
+//     console.log(a + b);
+
+// }
+
+// result(10, 60);
