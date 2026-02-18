@@ -117,3 +117,22 @@
 // }
 
 // result(10, 60);
+
+
+// (IIFE) - IMMEDIATELY INVOKED FUNCTION EXPRESSION..........
+// IS FUNCTION KO CALL KRNAY KI NEED NI. JUB BI 1ST TIME PAGE LOAD HOGA YE AUTOMETIC CHAL JAYA GA.
+
+// SYNTAX...............
+
+// (function () {
+       //code to be executed 
+// }) ();
+
+
+// var result = (function (a, b) {
+//     console.log(a + b);
+//     return a + b;
+    
+// }) (5, 10);
+
+// console.log("The Sum Of Two Numbers Is " + result);
