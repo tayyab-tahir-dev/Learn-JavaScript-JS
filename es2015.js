@@ -68,3 +68,58 @@
 
 // let message = `I am ${age} Years Old`
 // console.log(message);
+
+
+
+// MULTILINE STRING: TEMPLATE STRINGS MAKE IT EASY TO CREATR MULTI-LINE STRINGS WITHOUT THE NEED FOR CONCATENATION OR ESCAPE CHARACTERS.
+
+// EXAMPLE.......
+
+// let multiLineString = `
+// This Is A Multi-Line String
+// Using Template Literals,
+// It's Much Cleaner And Easier To Read.
+// `;
+
+// console.log(multiLineString);
+
+
+
+// SOME PRACTISE..........
+// EASY WAY TO CREATE TABLE OF ANY NUMBER......
+
+// var tableOf5 = 1;
+// var tableNum = 1;
+// console.log(`5 * ${tableOf5} = ${5 * tableNum}`);
+
+
+
+// DEFAULT PARAMETER.........
+// A DEFAULT PARAMETER IN JAVASCRIPT IS A FUNCTION PARAMETER THAT TAKES A DEFAULT VALUE IF NO ARGUMENT OR UNDEFINED IS PASSED DURING THE FUNCTION CALL.
+
+// EXAMPLE........
+
+// function sum(a = 50, b = 50) {
+//     return a + b;
+// }
+// console.log(sum());
+
+
+
+// IN ECMASCRIPT 6 (ES6), ARROW FUNCTION, ALSO KHOWN AS FAT ARROW FUNCTION, WERE INTRODUCED AS A CONCISE WAY TO WRITE ANONYMOUS FUNCTION.
+
+// SYNTAX..........
+
+// const functionName = (param1, param2, ...) => {
+//        //function body
+//     return result;  //optional 
+// };
+
+// EXAMPLE.......
+
+// const sum = (a, b) => {
+//     let result = `The Sum Of ${a} And ${b} Is ${a + b}.`;
+//     console.log(result);
+// };
+// sum(5, 5)
+
