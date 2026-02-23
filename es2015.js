@@ -130,3 +130,9 @@
 // console.log(square(10));
 
 
+// const sum = (a, b) => `The Sum Of ${a} And ${b} Is ${a + b}`;
+// console.log(sum(10, 10));
+
+
+// const greet = () => console.log("This Is An Empty Brakets");  
+// greet();
