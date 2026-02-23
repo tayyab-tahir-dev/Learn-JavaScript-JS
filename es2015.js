@@ -123,3 +123,10 @@
 // };
 // sum(5, 5)
 
+
+// PRACTISE..............
+
+// const square = (a) => `The Square Of ${a} And ${a} Is ${a * a}`;
+// console.log(square(10));
+
+
