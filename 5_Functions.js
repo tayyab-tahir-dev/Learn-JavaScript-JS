@@ -172,3 +172,24 @@
 // };
 
 // console.log(isReverse("TAYYAB TAHIR"));
+
+
+
+// PALINDROME CHECK..........
+
+
+// const isPalindrome = (str) => {
+//        let reverse ="";
+//        for (let char = str.length - 1; char >= 0;char--) {
+//           reverse = reverse + str[char];
+//        }
+//        // if(str === reverse) {
+//        //   return  true;
+//        // } else {
+//        //        return false;
+//        // }
+
+//    return  str === reverse ? true: false;
+// };
+
+// console.log(isPalindrome("LEVEL"));
