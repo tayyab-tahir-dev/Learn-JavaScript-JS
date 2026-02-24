@@ -136,3 +136,39 @@
 // }) (5, 10);
 
 // console.log("The Sum Of Two Numbers Is " + result);
+
+
+
+// REVERSE A STRING......
+
+
+// const isReverse = (str) => {
+//        for(let char = 0; char <= str.length -1; char++) {
+//               console.log(str[char]);
+              
+//        }
+// }
+
+// isReverse("TAYYAB TAHIR");
+
+
+
+// const isReverse = (str) => {
+//        for(let char = str.length -1; char >= 0; char--) {
+//               console.log(str[char]);
+              
+//        }
+// }
+
+// isReverse("TAYYAB TAHIR");
+
+
+// const isReverse = (str) => {
+//        let reverse ="";
+//        for (let char = str.length - 1; char >= 0;char--) {
+//           reverse = reverse + str[char];
+//        }
+//        return reverse;
+// };
+
+// console.log(isReverse("TAYYAB TAHIR"));
