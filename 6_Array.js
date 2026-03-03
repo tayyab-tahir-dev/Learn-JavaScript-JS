@@ -17,3 +17,6 @@
 // 2)USING ARRAY LITERALS
 // let fruits = ["apple", "mango", "banana"];
 // console.log(fruits);
+
+// WE CAN ALSO CREATE AN EMPTY ARRAY.
+// let arr = [];
