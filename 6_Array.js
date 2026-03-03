@@ -10,5 +10,10 @@
 
 // 1)USING ARRAY CONSTRUSTOR..........
 
-// let fruits = Array ('apple', 'mango', 'banana')
+// let fruits = Array ('apple', 'mango', 'banana');
+// console.log(fruits);
+
+
+// 2)USING ARRAY LITERALS
+// let fruits = ["apple", "mango", "banana"];
 // console.log(fruits);
