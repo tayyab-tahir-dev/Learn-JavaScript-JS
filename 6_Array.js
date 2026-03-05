@@ -20,3 +20,11 @@
 
 // WE CAN ALSO CREATE AN EMPTY ARRAY.
 // let arr = [];
+
+
+// ACCESSING ELEMENTS.....
+// ARRAY ELEMENTS ARE ACCESSED USING ZERO-BASED INDICES.
+// EXAMPLE..
+
+// let fruits = ["apple", "mango", "banana"];
+// console.log(fruits[1]);
