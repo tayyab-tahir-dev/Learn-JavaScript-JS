@@ -28,3 +28,12 @@
 
 // let fruits = ["apple", "mango", "banana"];
 // console.log(fruits[1]);
+
+
+// MODIFYING ELEMENTS.....
+// YOU CAN MODIFY ARRAY ELEMENTS BY ASSIGNING NEW VALUES TO SPECIFIC INDICES.
+// EXAMPLE..
+
+// let fruits = ["apple", "mango", "banana"];
+// fruits[2] = "ORANGE";
+// console.log(fruits);
