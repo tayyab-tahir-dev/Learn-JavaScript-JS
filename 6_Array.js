@@ -77,3 +77,19 @@
 //     console.log(arr);
     
 // });
+
+// MAP METHOD..
+// EXAMPLE.
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.map((curElem, index, arr) => {
+//     console.log(`${curElem} ${index}` );
+    
+// });
+
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.map((curElem, index, arr) => {
+//     console.log(arr);
+    
+// });
