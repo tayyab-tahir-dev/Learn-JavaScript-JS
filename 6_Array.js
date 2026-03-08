@@ -77,3 +77,24 @@
 //     console.log(arr);
     
 // });
+
+// MAP METHOD..
+// EXAMPLE.
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.map((curElem, index, arr) => {
+//     console.log(`${curElem} ${index}` );
+    
+// });
+
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.map((curElem, index, arr) => {
+//     console.log(arr);
+    
+// });
+
+                    //    IMPORTANT
+// .............MAP AND FOR EACH METHOD ARE BOTH SAME BUT................
+// .............MAP METHOD MAY RETURN UDE HOTA HAI OR TOTAL NEW ARRAY BNA KR DETA HAI...............
+
