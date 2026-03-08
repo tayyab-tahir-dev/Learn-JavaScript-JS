@@ -51,3 +51,12 @@
 //     console.log(item);
     
 // }
+
+// For..In Loop.......
+// EXAMPLE.
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// for(let index in fruits){
+//     console.log(index);
+    
+// }
