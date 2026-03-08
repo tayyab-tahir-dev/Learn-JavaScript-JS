@@ -93,3 +93,7 @@
 //     console.log(arr);
     
 // });
+
+                    //    IMPORTANT
+// .............MAP AND FOR EACH METHOD ARE BOTH SAME BUT................
+// .............MAP METHOD MAY RETURN UDE HOTA HAI OR TOTAL NEW ARRAY BNA KR DETA HAI...............
