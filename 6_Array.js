@@ -37,3 +37,17 @@
 // let fruits = ["apple", "mango", "banana"];
 // fruits[2] = "ORANGE";
 // console.log(fruits);
+
+
+// ARRAY TRAVERSAL /YA/ ITERATING OVER ARRAYS...
+
+//FOR...OF LOOP.....
+// IT IS ALSO KNOWN AS ITERABLE.
+
+// EXAMPLE.
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// for(let item of fruits){
+//     console.log(item);
+    
+// }
