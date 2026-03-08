@@ -60,3 +60,20 @@
 //     console.log(index);
     
 // }
+
+
+// FOR..EACH METHOD...
+// EXAMPLE..
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.forEach((curElem, index, arr) => {
+//     console.log(`${curElem} ${index}` );
+    
+// });
+
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// fruits.forEach((curElem, index, arr) => {
+//     console.log(arr);
+    
+// });
