@@ -116,8 +116,6 @@
 
 
 
-
-
 // BY MAP METHOD
 // let numbers = [2,3,4,5,];
 // const doubleValue = numbers.map((curElem) => {
@@ -125,3 +123,35 @@
 // // CREATE A NEW ARRAY WITH TRANSFORMED ELEMENTS THEN GO WITH MAP METHOD
 // });
 // console.log(doubleValue);
+
+
+// HOW TO INSERT, ADD, REPLACE AND DELATE ELEMENTS IN ARRAY(CRUD).
+// 1)PUSH():Method that add one or more element to the end of an array.
+
+// const persons = ["Taha", "Ali"];
+// persons.push("AHMAD");
+// console.log(persons);
+
+
+
+// 2)POP():Method that removes the last element from an array.
+
+// const persons = ["Taha", "Ali"];
+// persons.pop();
+// console.log(persons);
+
+
+
+// 3)UNSHIFT():Method that add one or more element to the beginning of anf array.
+
+// const persons = ["Taha", "Ali"];
+// persons.unshift("AHMAD");
+// console.log(persons);
+
+
+
+// 4)SHIFT():Method that removes the first element from an array.
+
+// const persons = ["Taha", "Ali"];
+// persons.shift();
+// console.log(persons);
