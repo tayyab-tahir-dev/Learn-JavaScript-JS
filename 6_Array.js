@@ -107,3 +107,21 @@
 // console.log(myMapArray);
 // console.log(fruits);
 
+// BY FOREACH
+// let numbers = [2,3,4,5,];
+// numbers.forEach((curElem) => {
+//     console.log(curElem *2);
+//     // PERFORMS AN ACTION ON EACH ELEMENTS THEN GO WITH FOR EACH
+// })
+
+
+
+
+
+// BY MAP METHOD
+// let numbers = [2,3,4,5,];
+// const doubleValue = numbers.map((curElem) => {
+//     return curElem * 2;
+// // CREATE A NEW ARRAY WITH TRANSFORMED ELEMENTS THEN GO WITH MAP METHOD
+// });
+// console.log(doubleValue);
