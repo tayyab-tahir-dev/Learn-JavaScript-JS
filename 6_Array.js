@@ -96,5 +96,14 @@
 
                     //    IMPORTANT
 // .............MAP AND FOR EACH METHOD ARE BOTH SAME BUT................
-// .............MAP METHOD MAY RETURN UDE HOTA HAI OR TOTAL NEW ARRAY BNA KR DETA HAI...............
+// .............MAP METHOD MAY RETURN UDE HOTA HAI OR TOTAL NEW ARRAY BNA  KR DETA HAI...............
+// EXAMPLE
+
+// let fruits = ["Apple", "Mango", "Orange", "Banana"];
+// const myMapArray = fruits.map ((curElem, index, arr) => {
+//     return `My Fav Fruit Is ${curElem}`
+// }) 
+
+// console.log(myMapArray);
+// console.log(fruits);
 
