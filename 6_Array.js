@@ -155,3 +155,4 @@
 // const persons = ["Taha", "Ali"];
 // persons.shift();
 // console.log(persons);
+
