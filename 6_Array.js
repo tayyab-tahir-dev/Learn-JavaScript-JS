@@ -142,7 +142,7 @@
 
 
 
-// 3)UNSHIFT():Method that add one or more element to the beginning of anf array.
+// 3)UNSHIFT():Method that add one or more element to the beginning of an array.
 
 // const persons = ["Taha", "Ali"];
 // persons.unshift("AHMAD");
