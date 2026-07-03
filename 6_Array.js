@@ -96,7 +96,7 @@
 
                     //    IMPORTANT
 // .............MAP AND FOR EACH METHOD ARE BOTH SAME BUT................
-// .............MAP METHOD MAY RETURN UDE HOTA HAI OR TOTAL NEW ARRAY BNA  KR DETA HAI...............
+// .............MAP METHOD MAY RETURN USE HOTA HAI OR TOTAL NEW ARRAY BNA  KR DETA HAI...............
 // EXAMPLE
 
 // let fruits = ["Apple", "Mango", "Orange", "Banana"];
@@ -155,4 +155,16 @@
 // const persons = ["Taha", "Ali"];
 // persons.shift();
 // console.log(persons);
+
+
+
+// 5)SPLICE():Method that use to add or remove anywhere in an element.
+
+// SYNTAX = splice (start, deleteCount, item1, item2, /* ..., itemN)
+
+// EXAMPLE:
+
+// let fruits = ["apple", "orange", "banana", "mango"];
+// fruits.splice(1,1, "grapes");
+// console.log(fruits);
 
