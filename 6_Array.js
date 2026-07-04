@@ -1,6 +1,8 @@
 // WHAT IS ARRAY..................
 // IN JAVASCRIPT AN ARRAY IS USED TO STORE COLLECTION OF DATA.
 
+const { result } = require("./result");
+
 // SYNTAX.....................
 // let arrayName = [value1, value2, value3];
 
@@ -167,4 +169,57 @@
 // let fruits = ["apple", "orange", "banana", "mango"];
 // fruits.splice(1,1, "grapes");
 // console.log(fruits);
+
+// ...................IMPORTANT................
+// fruits.splice(1,0, grapes);
+// Aghar deletecount 0 likh dete hai to bina item delete kiyay or values to jha marzi add kr skte hai index number change kar ke.
+
+
+// 6)SEARCHING IN ARRAY.
+// SEARCHING AND FILTER IN AN ARRAY
+
+// FOR SEARCH WE HAVE
+// 1)indexOf
+// 2)lastIndexOf
+// 3)includes
+
+
+//1)INDEXOF METHOD.
+// The indexOf method returns the first index at which a given element can be found in the array, or -1 it it is not present.
+
+// indexOf method array mein kisi diye gaye element ka pehla index return karta hai. Agar woh element array mein mojood na ho, to yeh -1 return karta hai.
+
+// SYNTAX = indexOf(searchElement); 
+// SYNTAX = indexOf(searchElement, fromIndex);
+
+// EXAMPLE:
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const result = (numbers.indexOf(4));
+// console.log(result);
+
+// EXAMPLE 2:
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const result = (numbers.indexOf(4, 5));
+// console.log(result);
+
+// Yha pr 5 se start hoga, ismay vo element array mein mojood ni hai, to yeh -1 return karta hai.Q ke 5 ke agay 4 ni hai.
+
+// 2)LASTINDEXOF METHOD.
+
+// SYNTAX = LastIndexOf(searchElement); 
+// SYNTAX = LastIndexOf(searchElement, fromIndex);
+
+// EXAMPLE:
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const result = (numbers.indexOf(4));
+// console.log(result);
+
+
+// Yha pr 9 se backward may start hoga,but index number hai vo simple sidhay he check krna shru kray gay.
+
+// EXAMPLE 2:
+
 
