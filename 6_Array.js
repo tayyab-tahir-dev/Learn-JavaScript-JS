@@ -217,10 +217,17 @@
 // const result = (numbers.lastIndexOf(4));
 // console.log(result);
 
-// Yha pr 9 se backward may start hoga,but index number simple sidhay he check krna shru kray gay.
+
 
 // EXAMPLE 2:
 
+// const numbers = [1, 2, 3, 6, 4, 5, 6, 7, 8, 9];
+// const result = numbers.lastIndexOf(6, 9);
+// console.log(result);
+
+// Yha pr 9 se backward may start hoga,but index number simple sidhay he check krna shru kray gay.
+
+hello
 
 
 
