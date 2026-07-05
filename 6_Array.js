@@ -1,7 +1,7 @@
 // WHAT IS ARRAY..................
 // IN JAVASCRIPT AN ARRAY IS USED TO STORE COLLECTION OF DATA.
 
-const { result } = require("./result");
+// const { result } = require("./result");
 
 // SYNTAX.....................
 // let arrayName = [value1, value2, value3];
@@ -213,8 +213,8 @@ const { result } = require("./result");
 
 // EXAMPLE:
 
-// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-// const result = (numbers.indexOf(4));
+// const numbers = [1, 2, 3, 4, 5, 6, 4, 7, 8, 9];
+// const result = (numbers.lastIndexOf(4));
 // console.log(result);
 
 
