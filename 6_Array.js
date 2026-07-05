@@ -227,7 +227,21 @@
 
 // Yha pr 9 se backward may start hoga,but index number simple sidhay he check krna shru kray gay.
 
-hello
+
+
+// 3)INCLUDES METHOD:
+// The include method check whether an array includes a certain elements,returning true/false.
+
+// SYNTAX = includes(searchElement); 
+// SYNTAX = includes(searchElement, fromIndex);
+
+// EXAMPLE.
+
+// const numbers = [1, 2, 3, 6, 4, 5, 6, 7, 8, 9];
+// const result = numbers.includes(6);
+// console.log(result);
+
+// ANSWER BOOLEAN TRUE/FALSE MAY AYE GA.
 
 
 
