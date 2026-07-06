@@ -303,4 +303,25 @@
 // })
 // console.log(result2);
 
+// FILTER METHOD.....
+// The method creates a new array with all elements that pass the test implemented by the provided function.
 
+// SYNTAX.....
+
+// array.filter(callback(element, index, array))
+
+// SYNTAX: BY ARROW FUNCTION,MOST USED
+
+// array.filter((element) => {
+// condion 
+// });
+
+
+// EXAMPLE:
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, ];
+// const result = numbers.filter((curElem) => {
+//     return curElem > 4;
+// })
+
+// console.log(result);
