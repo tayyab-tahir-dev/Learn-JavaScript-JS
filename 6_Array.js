@@ -244,4 +244,63 @@
 // ANSWER BOOLEAN TRUE/FALSE MAY AYE GA.
 
 
+// FINDINDEX METHOD........
+// findIndex() 
+// is a JavaScript array method that returns the index of the first element that satisfies a given condition. If no element matches the condition, it returns -1. 
+
+// findIndex() 
+// JavaScript ki array method hai jo pehle aise element ka index return karti hai jo di hui condition ko satisfy kare. Agar koi element condition ko satisfy na kare to -1 return karti hai.
+
+// SYNTAX...
+
+// array.findIndex(callback(element, index, array))
+
+// SYNTAX..
+
+// Ya arrow function ke sath (jo zyada use hota hai):
+
+// array.findIndex((element) => {
+// condition
+// });
+
+
+// EXAMPLE 1:
+
+// const numbers = [10, 20, 30, 40];
+
+// let result = numbers.findIndex((num) => num > 25);
+
+// console.log(result);
+
+
+// OUTPUT = 2:
+// Kyunkay 30 pehli value hai jo 25 se bari hai, aur uska index 2 hai.
+
+
+// EXAMPLE 2:
+// Agar condition match na ho
+
+// const numbers = [10, 20, 30];
+
+// let result = numbers.findIndex((num) => num > 50);
+
+// console.log(result);
+
+// OUTPUT = -1:
+
+
+// EXAMPLE 3:
+
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+// const result = numbers.map((curElem) => curElem * 5);
+// console.log(result);
+
+
+
+// const result2 = result.findIndex((curElem) => {
+//     return curElem > 15;
+// })
+// console.log(result2);
+
 
