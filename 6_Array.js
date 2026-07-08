@@ -326,3 +326,47 @@
 
 // console.log(result);
 
+// SORT AND COMPARE AN ARRAY......
+// The sort and compare the element of an array in place and returns the sorted array.By default,it sort elements and strings.
+
+// sort() array ke elements ko sort (arrange) karta hai.
+// Only alphabets ke sat arrange karay ga numbers ke sat bydefault problem aye gi.
+
+// EXAMPLE....
+
+// const fruits = ["Apple", "Orange", "Mango", "Banana"];
+// fruits.sort();
+// console.log(fruits);
+
+
+// COMPARE CALLBACK FUNCTION.....
+
+// SYNTAX...
+
+// const startedNumbers = numbers.sort((a, b) => a-b);
+// if (a>b) return 1 switch the order
+// if (b>a) return -1 keep the order
+
+
+
+// EXAMPLE...
+
+// const numbers = [1, 2, 4, 3, 5, 6, 8, 7, 9];
+
+// numbers.sort((a, b) => {
+//     if (a>b) return 1;
+//     if (b>a) return -1;
+// })
+// console.log(numbers);
+
+// EXAMPLE 2...
+//  Same aghar -1 ko 1 or 1 ko -1 kr day to numbers opposite ho jay gay,baray se chotay.
+
+// const numbers = [1, 2, 4, 3, 5, 6, 8, 7, 9];
+
+// numbers.sort((a,b) => {
+//     if (a>b) return -1;
+//     if (b>a) return 1;
+// })
+// console.log(numbers);
+
